@@ -1,6 +1,6 @@
 # this is my first workflow
 
-name: CI
+name: Test
 
 # controls when the workflow will run
 on:
